@@ -28,3 +28,6 @@ Go 拥有一个不需要导入即可直接使用的函数
 - cap -capacity 容量的意思，用于返回某个类型的最大容量（只能用于切片和map）
 - copy -用于复制和连接slice，返回复制的数目
 - len -求长度，用于返回长度，string array slice map channel
+- print、println -打印函数、部署环境中建议使用 fmt 包
+
+# 内置接口error
